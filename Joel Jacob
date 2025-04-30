@@ -1,1 +1,33 @@
+import numpy as np
 
+import matplotlib.pyplot as plt
+
+from scipy.signal import butter, filtfilt, lfilter, find_peaks
+
+import serial
+
+import time
+
+# --------------------------- Serial Data Acquisition --------------------------- #
+
+# Serial Connection to Arduino
+
+SERIAL_PORT = "COM4" # Change this
+
+BAUD_RATE = 9600
+
+DURATION = 300 # seconds
+
+fs = 250 # Hz
+
+try:
+
+ser = serial.Serial(SERIAL_PORT, BAUD_RATE, timeout=1)
+
+print(" Connected to Arduino!")
+
+except Exception as e:
+
+print(f" Error connecting to Arduino: {e}")
+
+exit()
