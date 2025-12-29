@@ -1,4 +1,4 @@
-# Hi there, I'm Joel Jacob 👋
+# Hi there, I'm Joel Jacob 
 
 ## 🎓 About Me
 Final year **Electronics & Biomedical Engineering** student at Govt. Model Engineering College, Kochi, passionate about **medical device design** and **embedded systems**. Currently working as a Project Intern at **Ubio Biotechnology Systems**, developing a semi-automated real-time PCR machine.
