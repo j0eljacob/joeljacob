@@ -85,7 +85,7 @@ Machine learning model for weather prediction:
 
 ## 📫 Let's Connect!
 - 📧 Email: joeljacob1254@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joeljacob](www.linkedin.com/in/joeljacob1254)
+- 💼 LinkedIn: [linkedin.com/in/joeljacob](https://www.linkedin.com/in/joeljacob1254/)
 - 📱 Phone: +91 9846396477
 
 ## 📊 GitHub Stats
