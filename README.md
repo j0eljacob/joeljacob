@@ -47,7 +47,7 @@ Developing a molecular diagnostics platform with focus on hardware design:
 - STM32-based embedded control system
 - **Tech:** KiCAD, STM32, Peltier Modules, Stepper Motors, Optical Systems
 
-[View Project →](#) *(Add link when repository is ready)*
+
 
 ---
 
@@ -61,7 +61,7 @@ Clinical-grade ECG acquisition and HRV analysis system:
 - Achieved clinical accuracy in HRV measurements
 - **Tech:** Python, Arduino, AD8232, Signal Processing
 
-[View Project →](#) *(Add link when repository is ready)*
+
 
 ---
 
