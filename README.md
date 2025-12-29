@@ -99,4 +99,4 @@ Machine learning model for weather prediction:
 
 ---
 
-💡 *Open to opportunities in biomedical engineering, medical device R&D, and embedded systems development!*
+💡 *Open to opportunities in PCB Design, Hardware engineering, biomedical engineering, medical device R&D, and embedded systems development!*
