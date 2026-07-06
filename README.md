@@ -39,9 +39,9 @@ Final year **Electronics & Biomedical Engineering** student at Govt. Model Engin
 ## 🚀 Featured Projects
 
 ### 🧬 Semi-Automated Real-Time PCR Machine
-**Ubio Biotechnology Systems | Ongoing**
+**Ubio Biotechnology Systems **
 
-Developing a molecular diagnostics platform with focus on hardware design:
+Developed a molecular diagnostics platform with focus on hardware design:
 - Multi-layer PCB design for motor drivers, thermal control, and optical systems
 - 24-bit ADC integration for fluorescence detection
 - STM32-based embedded control system
