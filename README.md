@@ -1,7 +1,7 @@
 # Hi there, I'm Joel Jacob 
 
 ## 🎓 About Me
-Final year **Electronics & Biomedical Engineering** student at Govt. Model Engineering College, Kochi, passionate about **medical device design** and **embedded systems**. Currently working as a Project Intern at **Ubio Biotechnology Systems**, developing a semi-automated real-time PCR machine.
+**Electronics & Biomedical Engineering** graduate from Govt. Model Engineering College, Kochi, passionate about **medical device design** and **embedded systems**. **Worked as Embedded Engineer Intern** at **Ubio Biotechnology Systems**, developing a semi-automated real-time PCR machine.
 
 ## 🔬 Current Focus
 - 🧬 Developing hardware for molecular diagnostics (PCR Machine)
@@ -39,7 +39,7 @@ Final year **Electronics & Biomedical Engineering** student at Govt. Model Engin
 ## 🚀 Featured Projects
 
 ### 🧬 Semi-Automated Real-Time PCR Machine
-**Ubio Biotechnology Systems **
+**Ubio Biotechnology Systems**
 
 Developed a molecular diagnostics platform with focus on hardware design:
 - Multi-layer PCB design for motor drivers, thermal control, and optical systems
